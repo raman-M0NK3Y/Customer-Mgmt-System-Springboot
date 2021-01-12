@@ -10,5 +10,7 @@ Technologies used: STS Eclipse, Spring MVC, Thymeleaf , Spring Data JPA, Hiberna
 
 **THE USER DETAILS TO VIEW THE DEMO ARE: USERNAME: abcd , PASSWORD: 1234**
 
+**If receive data breach popup ignore, feature added in Chrome, password is very simple and is posted on Github, of course would not do this in a production application.**
+
 Demo: https://cust-mgmt-sys.herokuapp.com/
 
