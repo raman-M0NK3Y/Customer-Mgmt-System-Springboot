@@ -1,6 +1,6 @@
-# Customer-Mgmt-System-Springboot
+# Customer-Mgmt-System-Spring Boot
 
-A Springboot MVC web application for Customer Management System with search functionality, Spring Security, and CRUD operations.
+A Spring Boot MVC web application for Customer Management System with search functionality, Spring Security, and CRUD operations.
 
 
 Technologies used: STS Eclipse, Spring MVC, Thymeleaf , Spring Data JPA, Hibernate, Spring Security, MySQL database
